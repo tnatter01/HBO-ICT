@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41afd261-f477-4769-be88-7c4647e5c22c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise10/README-EN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise10/README-NL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise10/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checkpoint1-Solution/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkpoint1-Solution/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checkpoint1-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkpoint1-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checkpoint1/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkpoint1/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Checkpoint1/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkpoint1/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements1-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements1-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements1-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise3/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise6/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/Exercise6/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfStatements2-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements2-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops1-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops1-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops1-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods2-Solution/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods2-Solution/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods2-Solution/Exercise2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods2-Solution/Exercise2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods2-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods2-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods2-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise3/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise3/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise3/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise3/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise4/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/example_mario.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise10/example_mario.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise5/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise6/Exercise6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise10/Exercise10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise6/README-EN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise6/README-NL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise6/src/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/Exercise7/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables1-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables1-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists1-Solution/Exercise1/README-EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Lists1-Solution/Exercise1/README-EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists1-Solution/Exercise1/README-NL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Lists1-Solution/Exercise1/README-NL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists1-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists1-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Lists1-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists2-Solution/Exercise1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Lists2-Solution/Exercise1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists2-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Lists2-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Lists2-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Loops2-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Loops2-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Loops2-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Loops3-Solution/Exercise1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Loops3-Solution/Exercise1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Loops3-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Loops3-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Loops3-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Methods3-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Methods3-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Methods3-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Practice-exam/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Practice-exam/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Variables2-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Variables2-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Variables2-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Variables3-Solution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-6/Variables3-Solution/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../4-6/Variables3-Solution/resources/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OtherExercises/Loops-City-preview/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../OtherExercises/Loops-City-preview/SaxionApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/q1/resources/SaxionApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/q1/resources/SaxionApp.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cWthhx4kyJDNJKEHMaPEys0ssm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise6/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tristan Pothoven\Desktop\1.1-Introductie-Programmeren\1-3\Methods1-Solution\Exercise6\src" />
+      <recent name="C:\Users\Tristan Pothoven\Desktop\1.1-Introductie-Programmeren\1-3\Methods1-Solution\Exercise6" />
+      <recent name="C:\Users\Tristan Pothoven\Desktop\1.1-Introductie-Programmeren\1-3\Methods1-Solution\Exercise5" />
+      <recent name="C:\Users\Tristan Pothoven\Desktop\1.1-Introductie-Programmeren\1-3\Methods1-Solution\Exercise4" />
+      <recent name="C:\Users\Tristan Pothoven\Desktop\1.1-Introductie-Programmeren\1-3\Methods1-Solution\Exercise3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exercise5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exercise6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exercise4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application (3)" />
+        <item itemvalue="Application.Application (5)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Application (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41afd261-f477-4769-be88-7c4647e5c22c" name="Default Changelist" comment="" />
+      <created>1590656297949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590656297949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="277" key="#Project_Structure" timestamp="1598111166303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="277" key="#Project_Structure/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598111166303" />
+    <state x="1087" y="492" key="#Web_Browsers" timestamp="1598017652534">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1087" y="492" key="#Web_Browsers/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598017652534" />
+    <state x="960" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598105669125">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598105669125" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598258043541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598258043541" />
+    <state x="1060" y="457" key="FileChooserDialogImpl" timestamp="1598112129398">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="457" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598112129398" />
+    <state width="2517" height="182" key="GridCell.Tab.0.bottom" timestamp="1598280107720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598280107720" />
+    <state width="2517" height="182" key="GridCell.Tab.0.center" timestamp="1598280107720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598280107720" />
+    <state width="2517" height="182" key="GridCell.Tab.0.left" timestamp="1598280107720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598280107720" />
+    <state width="2517" height="182" key="GridCell.Tab.0.right" timestamp="1598280107720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598280107720" />
+    <state x="783" y="346" key="SettingsEditor" timestamp="1598257926365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="783" y="346" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598257926365" />
+    <state x="662" y="326" key="new project wizard" timestamp="1598257923922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="326" key="new project wizard/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1598257923922" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1596637161749">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1596637161749" />
+  </component>
+</project>
